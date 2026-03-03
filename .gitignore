@@ -1,0 +1,10 @@
+# H2 Database files
+*.mv.db
+*.trace.db
+
+# IDE
+.idea/
+*.iml
+
+# target folder
+target/
